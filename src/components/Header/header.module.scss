@@ -1,1 +1,16 @@
-// TODO
+.container {
+  padding: 1rem;
+}
+
+.header {
+  max-width: 700px;
+  height: 6.56rem;
+  margin: auto;
+
+  display: flex;
+  align-items: center;
+
+  &:hover img {
+    cursor: pointer;
+  }
+}

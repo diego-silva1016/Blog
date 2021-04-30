@@ -4,4 +4,20 @@
   padding: 0;
 }
 
-// TODO
+body {
+  background: #1A1D23;
+  color: #fff;
+  outline: 0;
+}
+
+body, input, textarea, select, button {
+  font: 400 1rem "Inter", sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+a{
+  text-decoration: none;
+}
